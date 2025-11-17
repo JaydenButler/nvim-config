@@ -1,0 +1,15 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+*.o
+*.pyc
+*.swp
+*.swo
+.env
+temp/
+lazy-lock.json
