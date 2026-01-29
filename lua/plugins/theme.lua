@@ -1,1 +1,0 @@
-/home/jayden/.config/omarchy/current/theme/neovim.lua
